@@ -14,6 +14,7 @@ const person1 = {
 //   name: "Nina",
 //   age: 38
 // //   greet: greet
+
 // }
 
 console.log(person1.greet());
